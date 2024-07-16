@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.S" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorPrimaryDark">@color/teal_700</item>
+        <item name="colorAccent">@color/LightCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Abox" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorPrimaryDark">@color/teal_700</item>
+        <item name="colorAccent">@color/LightCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Menu" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/CornflowerBlue</item>
+        <item name="colorPrimaryDark">@color/CornflowerBlue</item>
+        <item name="colorAccent">@color/LightCoral</item>
+
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.sw" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/LimeGreen</item>
+        <item name="colorPrimaryDark">@color/LimeGreen</item>
+        <item name="colorAccent">@color/LightCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.tw" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/LightPink</item>
+        <item name="colorPrimaryDark">@color/LightPink</item>
+        <item name="colorAccent">@color/CornflowerBlue</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.ha" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/IndianRed</item>
+        <item name="colorPrimaryDark">@color/IndianRed</item>
+        <item name="colorAccent">@color/CornflowerBlue</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

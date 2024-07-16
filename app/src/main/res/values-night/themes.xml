@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.S" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/teal_900</item>
+        <item name="colorPrimaryDark">@color/teal_900</item>
+        <item name="colorAccent">@color/darkCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Abox" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_700</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Menu" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Blue</item>
+        <item name="colorPrimaryDark">@color/Blue</item>
+        <item name="colorAccent">@color/darkCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.sw" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Green</item>
+        <item name="colorPrimaryDark">@color/Green</item>
+        <item name="colorAccent">@color/darkCoral</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.tw" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkPink</item>
+        <item name="colorPrimaryDark">@color/darkPink</item>
+        <item name="colorAccent">@color/Blue</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ha" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkRed</item>
+        <item name="colorPrimaryDark">@color/darkRed</item>
+        <item name="colorAccent">@color/Blue</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

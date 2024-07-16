@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dhee.abox">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.S"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".HumanActivity"
+            android:exported="true"
+            android:label="HumanActivity"
+            android:theme="@style/Theme.ha"/>
+        <activity
+            android:name=".SwitchActivity"
+            android:exported="true"
+            android:label="Switch State"
+            android:theme="@style/Theme.sw"/>
+        <activity
+            android:name=".NetActivity"
+            android:label="About Network"
+            android:exported="true" />
+        <activity
+            android:name=".Get_tem_Activity2"
+            android:exported="true"
+            android:theme="@style/Theme.tw"
+            android:label="@string/temperature_and_humidity"/>
+
+        <activity android:name=".LoginActivity"
+            android:label="@string/app_name"
+            >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/Theme.Menu"
+            android:label="@string/welcome_to_amazing_box"
+            />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

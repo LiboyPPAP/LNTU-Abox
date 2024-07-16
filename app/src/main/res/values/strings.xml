@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Amazing Box</string>
+    <string name="Refresh">Refresh the Information</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="i_agree_to_the_user_license_agreement">I agree to the User License Agreement.</string>
+    <string name="welcome_to_amazing_box">Welcome to Amazing Box</string>
+    <string name="sw">Smart Switch</string>
+    <string name="temperature_and_humidity">Temperature and Humidity</string>
+    <string name="network_information">Network Information</string>
+    <string name="human_activity">Human Activity</string>
+    <string name="human_active_state">Human Active State</string>
+    <string name="active_state">Active State:</string>
+    <string name="lightintensity">lightIntensity:</string>
+</resources>
